@@ -1,2 +1,8 @@
-# Module20_Homework
-Repository consists of Module 20 homework of Skillfactory school
+# Вёрстка лендинга - исправления :
+    * Принцип DRY - см. код по тегу // FIXME:DRY
+    * Скриншот проверки через W3C Validator
+    * Для проверки использован Линтер ESLint, при проверке которым ошибок выявлено не было. (см. Скриншот)
+
+# Спа салон - исправления :
+    * Принцип KISS - functions.php - см. код по тегу // FIXME:KISS
+    * Принцип YAGNI - login.php - см. код по тегу // FIXME:YAGNI
